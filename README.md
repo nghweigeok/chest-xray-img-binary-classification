@@ -1,1 +1,1 @@
-# binary classification of chest x-ray images using transfer learning
+# Binary classification of chest x-ray images using transfer learning
